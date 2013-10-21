@@ -1,0 +1,6 @@
+{
+    // When versbose is 'true', various messages will be written to the console.
+    // values: true or false
+    "verbose": true,
+    "run_on_save": true
+}
